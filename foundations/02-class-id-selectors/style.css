@@ -1,0 +1,19 @@
+.odd{
+    background-color: #ffc0cb;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.but_different{
+    font-size: 24px;
+}
+
+#two{
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+#four{
+    background-color: rgb(144, 250, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
